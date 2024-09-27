@@ -11,5 +11,9 @@ public class Demo {
         set.add(11);
         set.add(33);
         System.out.println(set);
+
+        for(Integer i :set){
+            System.out.println(i);
+        }
     }
 }
