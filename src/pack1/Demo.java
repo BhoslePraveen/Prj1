@@ -10,6 +10,8 @@ public class Demo {
         set.add(null);
         set.add(11);
         set.add(33);
+        set.add(33);
+        set.add(43);
         System.out.println(set);
 
         for(Integer i :set){
